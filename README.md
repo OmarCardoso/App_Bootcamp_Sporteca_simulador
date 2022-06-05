@@ -1,4 +1,4 @@
-# Projeto Sporteca
+# Projeto Sportheca
 
 App de simulacao de partidas. ESte repositorio foi organizado em algumas branches que representam as implementaçoes realizadas durante os seguintes conteúdos / videos
 
